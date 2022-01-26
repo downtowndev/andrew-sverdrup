@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: Andrew Sverdrup
+description: Mobile app dev 💻, surfing 🏄‍♂️, working out 💪🏻, basketball 🏀</br>Email: <a href="mailto:andrew@sverdrup.dev">andrew@sverdrup.dev</a>
+logo: /assets/img/andrew-sverdrup.png
+show_downloads: false
+google_analytics: G-TBR8SHVDHZ
