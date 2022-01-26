@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+<p hidden>This is a GitHub Pages site, view it here https://downtown.dev!</p>
 
-You can use the [editor on GitHub](https://github.com/downtowndev/andrew-sverdrup/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# My Apps
+I have published several apps on both Apple and Google's mobile app stores. They are listed below.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Reminder Text: SMS Reminders
+A mobile app that allows you to create reminders and sends you a text with the reminder message.
 
-### Markdown
+![Screen Shot 2022-01-25 at 10 58 09 PM](https://user-images.githubusercontent.com/54512894/151117376-f93af5d2-8d7b-428b-8bc2-2411f20d4978.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Apple App Store: https://apps.apple.com/us/app/reminder-text-sms-reminders/id1605497429
 
-```markdown
-Syntax highlighted code block
+Google Play Store: Coming soon!
 
-# Header 1
-## Header 2
-### Header 3
+### Wake Up Call: Wake up on time!
+A mobile app that allows you to schedule wake up calls.
 
-- Bulleted
-- List
+![Screen Shot 2022-01-25 at 11 01 43 PM](https://user-images.githubusercontent.com/54512894/151117893-5ac5c6de-8b6b-420d-82da-efd9764efc84.png)
 
-1. Numbered
-2. List
+Apple App Store: https://apps.apple.com/us/app/wake-up-call-wake-up-on-time/id1553714102
 
-**Bold** and _Italic_ and `Code` text
+Google Play Store: https://play.google.com/store/apps/details?id=dev.downtown.wakeupcall
 
-[Link](url) and ![Image](src)
-```
+### Bubbles: Pop the Bubbles
+A simple game where you pop bubbles as they float up. With sound effects when bubbles pop! Has both an endless mode for endless fun, and a challenge mode where you get points for popping every bubble until you miss one.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![Screen Shot 2022-01-25 at 11 16 08 PM](https://user-images.githubusercontent.com/54512894/151119485-7dff3e75-d904-4048-8f61-5b4a420b6f0d.png)
 
-### Jekyll Themes
+Apple App Store: https://apps.apple.com/us/app/bubbles-pop-the-bubbles/id1515066621
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/downtowndev/andrew-sverdrup/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Google Play Store: https://play.google.com/store/apps/details?id=dev.downtown.bubbles
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### EveryList: To-Do List & Tasks
+My first app! A simple list app to track todos or goals or groceries. Track it all! You can also share lists with friends who have the app.
+
+![Screen Shot 2022-01-25 at 11 13 48 PM](https://user-images.githubusercontent.com/54512894/151119243-cd49b977-08db-4bd5-b4a7-7b934ff7fc67.png)
+
+Apple App Store: https://apps.apple.com/us/app/everylist-to-do-list-tasks/id1489076495
+
+Google Play Store: https://play.google.com/store/apps/details?id=dev.downtown.everylist
